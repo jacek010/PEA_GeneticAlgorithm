@@ -1,0 +1,4 @@
+# ninja log v5
+6	592	6949708362514608	build.ninja	782687156f063db3
+0	685	6949708085827010	CMakeFiles/GeneticAlgorithm.dir/main.cpp.obj	beef09ad581e2e61
+688	959	6949708088506948	GeneticAlgorithm.exe	35b768f169871944
